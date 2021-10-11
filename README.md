@@ -12,14 +12,14 @@ Hi, I'm [Mohsen Arzani](https://mohsen-arzani.ir/), a front-end web developer �
 
 <br>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" style='width:450px;height:250px;' />
 
  - 📫 How to reach me: [mohsenarzani4030@gmail.com](mailto:mohsenarzani4030@gmail.com);
  - 🔗 My website: [https://mohsen-arzani.ir/](https://mohsen-arzani.ir/)
  
  <br>
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohsen-Arzanii" alt="AbhishekMaiara10" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mohsen-Arzanii" alt="محسن ارزنی" /> </p>
  
  </br>
 
