@@ -55,6 +55,10 @@ I'm [Mohsen Arzani](https://mohsen-arzani.ir/), a front-end web developer ðŸ‘¨ðŸ
           <img src="https://user-images.githubusercontent.com/79720505/202835187-7a906c9a-aaaf-4d77-8edf-bab59b887be1.png" alt="icon" width="65" height="65" />
         <br>SweetAlert2
       </td>
+     <td align="center" width="96">
+          <img src="https://user-images.githubusercontent.com/79720505/202838615-c206585e-6cef-4a43-977d-0307e66831b6.png" alt="icon" width="65" height="65" />
+        <br>PostCss
+      </td>
     </tr>
     <tr>
       <td align="center" width="96"> 
@@ -86,6 +90,10 @@ I'm [Mohsen Arzani](https://mohsen-arzani.ir/), a front-end web developer ðŸ‘¨ðŸ
       <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
         <br>Tailwind
+      </td>
+     <td align="center" width="96">
+          <img src="https://user-images.githubusercontent.com/79720505/202838975-1d3f3aa1-9608-4f3f-8d71-54af27dff624.png" width="48" height="48" alt="tailwind" />
+        <br>AnimateCss
       </td>
     </tr>
    <tr>
