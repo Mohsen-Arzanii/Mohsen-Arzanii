@@ -1,20 +1,23 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-I'm [Mohsen Arzani](https://mohsen-arzani.ir/), a front-end web developer 👨🏻‍💻 from Iran. I started my work in 2017 . I am currently 
-
+##### Bio
+ - 💬 A Web Programmer From Iran
+ - 💬 Front-end Developer
+ - 💬 Bachelor’s degree: Software Engineering
+ - 💬 Studying IT Engineering
+ 
 ##### Now
 - <img src="https://user-images.githubusercontent.com/79720505/202840098-371ad903-c9d1-4a5a-be48-515fec7d334e.gif" width="28"> Currently working on <a href="https://webazto.ir">webAzTo (Online store builder)</a> in Science and Technology Park.
-<br>
 
 ##### How TO Reach Me
  - 📫 mail: [mohsenarzani4030@gmail.com](mailto:mohsenarzani4030@gmail.com);
  - 🔗 My website: [https://mohsen-arzani.ir/](https://mohsen-arzani.ir/)
  - Social Networks:
- <p align="left" style="margin-left:30px;"> 
-<a href="https://twitter.com/mohsen_arzanii" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/Mohsen-Arzanii/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/Arzani.Mohsen/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/instagram.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+     <p align="left" style="margin-left:30px;"> 
+    <a href="https://twitter.com/mohsen_arzanii" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/Mohsen-Arzanii/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.instagram.com/Arzani.Mohsen/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/instagram.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </p>
 
  <br>
 
