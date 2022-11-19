@@ -46,6 +46,16 @@ Hi, I'm [Mohsen Arzani](https://mohsen-arzani.ir/), a front-end web developer ðŸ
           <img src="https://user-images.githubusercontent.com/79720505/202834272-158dd64b-901b-4eef-afe9-f9b69c4650a2.png" alt="icon" width="65" height="65" />
         <br>SASS
       </td>
+      <td align="center" width="96">
+          <img src="https://user-images.githubusercontent.com/79720505/202834351-5ada02b7-ace4-4a66-9cf0-fdbb0efd2e3d.png" alt="icon" width="65" height="65" />
+        <br>Vue.js
+      </td>
+     
+      <td align="center" width="96">
+          <img src="https://user-images.githubusercontent.com/79720505/202834396-f3d0a430-48ca-4cac-9b60-532f81df6067.png" alt="icon" width="65" height="65" />
+        <br>React
+
+      </td>
     </tr>
     <tr>
       <td align="center" width="96"> 
