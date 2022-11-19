@@ -31,13 +31,13 @@ I'm [Mohsen Arzani](https://mohsen-arzani.ir/), a front-end web developer ðŸ‘¨ðŸ
           <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
         <br>HTML
       </td>
-      <td align="center" width="96">
-          <img src="https://user-images.githubusercontent.com/79720505/202838415-4f8642c2-6920-45f3-b508-117c58ade453.png" alt="icon" width="65" height="65" />
-        <br>JavaScript
+     <td align="center" width="96">
+          <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+        <br>CSS
       </td>
-      <td align="center" width="96">
-          <img src="https://user-images.githubusercontent.com/79720505/202838444-4e532448-03f1-4ec6-aada-a16ed7525df7.png" alt="icon" width="65" height="65" />
-        <br>C++
+      <td align="center"  width="96">
+          <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+        <br>Bootstrap
       </td>
       <td align="center" width="96">
           <img src="https://user-images.githubusercontent.com/79720505/202834272-158dd64b-901b-4eef-afe9-f9b69c4650a2.png" alt="icon" width="65" height="65" />
@@ -75,13 +75,13 @@ I'm [Mohsen Arzani](https://mohsen-arzani.ir/), a front-end web developer ðŸ‘¨ðŸ
         </a>
         <br>Python
       </td>
-      <td align="center" width="96">
-          <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-        <br>CSS
+     <td align="center" width="96">
+          <img src="https://user-images.githubusercontent.com/79720505/202838415-4f8642c2-6920-45f3-b508-117c58ade453.png" alt="icon" width="65" height="65" />
+        <br>JavaScript
       </td>
-      <td align="center"  width="96">
-          <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-        <br>Bootstrap
+      <td align="center" width="96">
+          <img src="https://user-images.githubusercontent.com/79720505/202838444-4e532448-03f1-4ec6-aada-a16ed7525df7.png" alt="icon" width="65" height="65" />
+        <br>C++
       </td>
       <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
