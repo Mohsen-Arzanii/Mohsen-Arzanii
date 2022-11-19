@@ -8,11 +8,10 @@
 
 <br>
 
-Hi, I'm [Mohsen Arzani](https://mohsen-arzani.ir/), a front-end web developer 👨🏻‍💻 from Iran. I started my work in 2017 . I am currently working on 🔭 <a href="https://webazto.ir">webAzTo</a> startup in Science and Technology Park.
+I'm [Mohsen Arzani](https://mohsen-arzani.ir/), a front-end web developer 👨🏻‍💻 from Iran. I started my work in 2017 . I am currently working on 🔭 <a href="https://webazto.ir">webAzTo</a> startup in Science and Technology Park.
 
 <br>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" style='width:450px;height:250px;' />
 
  - 📫 How to reach me: [mohsenarzani4030@gmail.com](mailto:mohsenarzani4030@gmail.com);
  - 🔗 My website: [https://mohsen-arzani.ir/](https://mohsen-arzani.ir/)
