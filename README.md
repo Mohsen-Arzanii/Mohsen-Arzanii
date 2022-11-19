@@ -89,6 +89,10 @@ Hi, I'm [Mohsen Arzani](https://mohsen-arzani.ir/), a front-end web developer ðŸ
       <td align="center" width="96">
           <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
         <br>JQuery
-      </td>          
+      </td> 
+     <td align="center" width="96">
+         <img src="https://user-images.githubusercontent.com/79720505/202834631-e3b8c987-af9f-41c3-bd99-41064e953044.png" width="48" height="48" alt="jquery" />
+       <br>React
+     </td>
    </tr>
 </table>
