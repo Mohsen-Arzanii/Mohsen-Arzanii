@@ -92,7 +92,7 @@ I'm [Mohsen Arzani](https://mohsen-arzani.ir/), a front-end web developer ðŸ‘¨ðŸ
         <br>Tailwind
       </td>
      <td align="center" width="96">
-          <img src="https://user-images.githubusercontent.com/79720505/202838975-1d3f3aa1-9608-4f3f-8d71-54af27dff624.png" width="48" height="48" alt="tailwind" />
+          <img src="https://user-images.githubusercontent.com/79720505/202839621-eb2ae3c8-fe59-41aa-b004-db38ce3db606.png" width="48" height="48" alt="tailwind" />
         <br>AnimateCss
       </td>
     </tr>
