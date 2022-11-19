@@ -100,7 +100,6 @@ I'm [Mohsen Arzani](https://mohsen-arzani.ir/), a front-end web developer ðŸ‘¨ðŸ
     <td align="center" width="96">
          <img src="https://user-images.githubusercontent.com/79720505/202835014-ac78fe60-0076-4e6a-b7cc-c450cf2736d0.png" width="48" height="48" alt="jquery" />
        <br>Vuex
-
      </td>
     <td align="center" width="96">
          <img src="https://user-images.githubusercontent.com/79720505/202835036-7f86cb44-36c4-4da5-870a-c0ed6ae72d72.png" width="48" height="48" alt="jquery" />
