@@ -54,7 +54,6 @@ Hi, I'm [Mohsen Arzani](https://mohsen-arzani.ir/), a front-end web developer ðŸ
       <td align="center" width="96">
           <img src="https://user-images.githubusercontent.com/79720505/202834396-f3d0a430-48ca-4cac-9b60-532f81df6067.png" alt="icon" width="65" height="65" />
         <br>React
-
       </td>
     </tr>
     <tr>
