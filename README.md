@@ -49,6 +49,14 @@ I'm [Mohsen Arzani](https://mohsen-arzani.ir/), a front-end web developer ðŸ‘¨ðŸ
           <img src="https://user-images.githubusercontent.com/79720505/202834351-5ada02b7-ace4-4a66-9cf0-fdbb0efd2e3d.png" alt="icon" width="65" height="65" />
         <br>Vue.js
       </td>
+      <td align="center" width="96">
+          <img src="https://user-images.githubusercontent.com/79720505/202835094-ce779723-c84c-4bcc-b0e7-a73b1cbe3350.svg" alt="icon" width="65" height="65" />
+        <br>Swiper
+      </td>
+     <td align="center" width="96">
+          <img src="https://user-images.githubusercontent.com/79720505/202835187-7a906c9a-aaaf-4d77-8edf-bab59b887be1.png" alt="icon" width="65" height="65" />
+        <br>SweetAlert2
+      </td>
     </tr>
     <tr>
       <td align="center" width="96"> 
