@@ -40,23 +40,23 @@ I'm [Mohsen Arzani](https://mohsen-arzani.ir/), a front-end web developer ðŸ‘¨ðŸ
         <br>Bootstrap
       </td>
       <td align="center" width="96">
-          <img src="https://user-images.githubusercontent.com/79720505/202834272-158dd64b-901b-4eef-afe9-f9b69c4650a2.png" alt="icon" width="65" height="65" />
+          <img src="https://user-images.githubusercontent.com/79720505/202834272-158dd64b-901b-4eef-afe9-f9b69c4650a2.png" alt="icon" width="48" height="48" />
         <br>SASS
       </td>
       <td align="center" width="96">
-          <img src="https://user-images.githubusercontent.com/79720505/202834351-5ada02b7-ace4-4a66-9cf0-fdbb0efd2e3d.png" alt="icon" width="65" height="65" />
+          <img src="https://user-images.githubusercontent.com/79720505/202834351-5ada02b7-ace4-4a66-9cf0-fdbb0efd2e3d.png" alt="icon" width="48" height="48" />
         <br>Vue.js
       </td>
       <td align="center" width="96">
-          <img src="https://user-images.githubusercontent.com/79720505/202835094-ce779723-c84c-4bcc-b0e7-a73b1cbe3350.svg" alt="icon" width="65" height="65" />
+          <img src="https://user-images.githubusercontent.com/79720505/202835094-ce779723-c84c-4bcc-b0e7-a73b1cbe3350.svg" alt="icon" width="48" height="48" />
         <br>Swiper
       </td>
      <td align="center" width="96">
-          <img src="https://user-images.githubusercontent.com/79720505/202835187-7a906c9a-aaaf-4d77-8edf-bab59b887be1.png" alt="icon" width="65" height="65" />
+          <img src="https://user-images.githubusercontent.com/79720505/202835187-7a906c9a-aaaf-4d77-8edf-bab59b887be1.png" alt="icon" width="48" height="48" />
         <br>SweetAlert2
       </td>
      <td align="center" width="96">
-          <img src="https://user-images.githubusercontent.com/79720505/202838615-c206585e-6cef-4a43-977d-0307e66831b6.png" alt="icon" width="65" height="65" />
+          <img src="https://user-images.githubusercontent.com/79720505/202838615-c206585e-6cef-4a43-977d-0307e66831b6.png" alt="icon" width="48" height="48" />
         <br>PostCss
       </td>
     </tr>
@@ -75,16 +75,16 @@ I'm [Mohsen Arzani](https://mohsen-arzani.ir/), a front-end web developer ðŸ‘¨ðŸ
       </td>
       <td align="center" width="96">
         <a href="#macropower-tech">
-          <img src="https://user-images.githubusercontent.com/79720505/202838390-0fde430c-b213-4993-b188-db5a76cf5670.png" alt="icon" width="65" height="65" />
+          <img src="https://user-images.githubusercontent.com/79720505/202838390-0fde430c-b213-4993-b188-db5a76cf5670.png" alt="icon" width="48" height="48" />
         </a>
         <br>Python
       </td>
      <td align="center" width="96">
-          <img src="https://user-images.githubusercontent.com/79720505/202838415-4f8642c2-6920-45f3-b508-117c58ade453.png" alt="icon" width="65" height="65" />
+          <img src="https://user-images.githubusercontent.com/79720505/202838415-4f8642c2-6920-45f3-b508-117c58ade453.png" alt="icon" width="48" height="48" />
         <br>JavaScript
       </td>
       <td align="center" width="96">
-          <img src="https://user-images.githubusercontent.com/79720505/202838444-4e532448-03f1-4ec6-aada-a16ed7525df7.png" alt="icon" width="65" height="65" />
+          <img src="https://user-images.githubusercontent.com/79720505/202838444-4e532448-03f1-4ec6-aada-a16ed7525df7.png" alt="icon" width="48" height="48" />
         <br>C++
       </td>
       <td align="center" width="96">
@@ -92,8 +92,8 @@ I'm [Mohsen Arzani](https://mohsen-arzani.ir/), a front-end web developer ðŸ‘¨ðŸ
         <br>Tailwind
       </td>
      <td align="center" width="96">
-          <img src="https://user-images.githubusercontent.com/79720505/202839621-eb2ae3c8-fe59-41aa-b004-db38ce3db606.png" width="48" height="48" alt="tailwind" />
-        <br>AnimateCss
+          <img src="https://user-images.githubusercontent.com/79720505/202839941-2a703f3c-110d-47e0-a1a9-3924e9de508d.png" width="48" height="48" alt="tailwind" />
+        <br>ES6
       </td>
     </tr>
    <tr>
