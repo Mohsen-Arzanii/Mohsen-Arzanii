@@ -2,7 +2,7 @@
 
 ##### Bio
  - 💬 A Web Programmer From Iran
- - 💬 Front-end Developer
+ - 💬 Senior Front-end Developer
  - 💬 Bachelor’s degree: Software Engineering
  - 💬 Studying IT Engineering
  
